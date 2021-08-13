@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeoMax97
 - 👀 I’m interested in Web Development & Game Development
-- 🌱 I’m currently learning the MEAN Stack
+
 
 <!---
 NeoMax97/NeoMax97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
